@@ -1,0 +1,1 @@
+print ("SAINS DATA TERBAIK")
